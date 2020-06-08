@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Tryad</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="welcome">Welcome to</string>
+    <string name="username_hint">Phone Number / Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_button_text">Sign In</string>
+    <string name="logo_description">Basic Logo</string>
+    <string name="sign_in_prompt">Not a member? Register now!</string>
 </resources>
